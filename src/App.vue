@@ -39,6 +39,7 @@
           <div class="card">
             <div class="container">
               <div class="row">
+              vbcvb
                 <div class="col-lg-6 col-12 icons">
                   <img src="@/assets/png/preview.png" class="">
 
