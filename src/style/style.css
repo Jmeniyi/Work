@@ -1,0 +1,120 @@
+*{
+    font-family: Montserrat;
+}
+#app{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, #FDE9F2 0%, #FAD1D7 100%);
+    background-size: 100%;
+}
+.navbar{
+    width: 100%;
+    background-color: white;
+    border-bottom: 1px solid #DBBFA7;
+}
+
+#Nav{
+    margin: 5px;
+    border: 1px solid #DBBFA7;
+    
+}
+#C1{
+height:auto ;
+display: flex;
+border: 2px solid black;
+text-align: stretch;
+
+}
+#C2{
+    height:200px ;
+    width: auto;
+    display: flex;
+    border: 2px solid black;
+
+    align-items: flex-start;
+}
+
+
+
+  img{
+    margin-top: 13px;
+    margin-bottom: 10px;
+    width: inherit;
+    height: auto;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .icons{
+    position:relative;
+  }
+  .icon{
+    position: absolute;
+    top: 7px;
+    height: 15px;
+    width: auto;
+    left: 25px;
+  }
+  .icon2{
+    position: absolute;
+    top: 7px;
+    height: 15px;
+    width: auto;
+    right: 25px;
+
+  }
+  .title{
+    margin-top: 8px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #a0c0bf;
+  }
+  .adress{
+    margin-top: -20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #a0c0bf;
+  }
+  .gray{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #8A8A8A;
+  }
+  .cab{
+    margin-top: -15px;
+    margin-left: 15px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #a0c0bf;
+  }
+
+footer{
+    background: #383838;
+    color:whitesmoke;
+    position: fixed; 
+    left: 0;
+    right: 0;
+    bottom: 0; 
+}
+#Lf{
+  height: 50px;
+  margin-bottom: 0px;
+}
+button{
+    border: 1px solid #ffffff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 40px;
+    width: 272px;
+    background: inherit;
+    color: #FFFFFF;
+}
